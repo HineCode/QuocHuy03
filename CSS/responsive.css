@@ -1,0 +1,1378 @@
+
+/* PC */
+@media (min-width: 1024px) {
+  #img1 {
+    margin-left: -20px;
+  }
+}
+/* mobile 5s */
+
+@media (max-width: 320px) {
+  .warray {
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    background-color: #fff;
+    margin-top: 0px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    height: 65px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+    margin-top: 5px;
+  }
+  .nav__menu {
+    flex-direction: column;
+    position: fixed;
+    top: 65px;
+    right: -100%;
+    width: 80%;
+    height: 100%;
+    padding: 2rem;
+    background-color: #0e2431f5;
+    transition: 0.5s;
+    z-index: 2;
+  }
+  .menu_link {
+    color: #fff;
+    margin-right: 0;
+  }
+  .show {
+    right: 0%;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+  }
+
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #nav-toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+    color: #000;
+  }
+  .closebtn {
+    text-decoration: none;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 23px;
+    font-size: 35px;
+    margin-left: 50px;
+    color: #fff;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  .english {
+    margin-top: 19px;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course {
+    margin-top: 70px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 24px;
+    margin-left: 16px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 16px;
+  }
+  .search-container input {
+    font-size: 17px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .search-container input {
+    width: 270px;
+  }
+  .head-course h2 {
+    font-size: 17px;
+    padding: 0px 5px;
+  }
+  .letter {
+    font-size: 20px;
+    margin-left: 40px;
+  }
+  .product-item {
+    width: 305px;
+    height: 410px;
+  }
+  .rating span {
+    margin-left: 100px;
+    font-size: 10px;
+  }
+  .col-4 h4 {
+    font-size: 17px;
+  }
+  .col-4 h5 a {
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -25px;
+  }
+  .row-20 {
+    margin-left: -25px;
+    margin-top: 440px;
+  }
+  .row-2 {
+    margin-top: 880px;
+    margin-left: -25px;
+  }
+  .title-leg {
+    font-size: 20px;
+    margin-left: 65px;
+  }
+  .row-3 {
+    margin-top: 1350px;
+    margin-left: -25px;
+  }
+  .row-4 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-5 {
+    margin-top: 860px;
+    margin-left: -25px;
+  }
+  .row-7 {
+    margin-top: 1285px;
+    margin-left: -25px;
+  }
+  .row-8 {
+    margin-top: 1720px;
+    margin-left: -25px;
+  }
+  .title-pop span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-9 {
+    margin-top: 2180px;
+    margin-left: -25px;
+  }
+  .row-10 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-11 {
+    display: none;
+  }
+  .row-22 {
+    display: none;
+  }
+  .row-12 {
+    margin-top: 855px;
+    margin-left: -25px;
+  }
+  .row-19 {
+    margin-top: 1290px;
+    margin-left: -25px;
+  }
+  .title-end span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-13 {
+    margin-top: 1750px;
+    margin-left: -25px;
+  }
+  .row-14 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-15 {
+    margin-top: 860px;
+    margin-left: -25px;
+  }
+  .row-23 {
+    margin-top: 1290px;
+    margin-left: -25px;
+  }
+  .title-tow span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-16 {
+    margin-top: 445px;
+    margin-left: -25px;
+  }
+  .product-item .item-img img {
+    width: 275px;
+    height: 192px;
+  }
+  .row-18 {
+    margin-top: 435px;
+    margin-left: -25px;
+  }
+  /* phandangki */
+  .modal {
+    padding-top: 15px;
+  }
+  .container10 {
+    margin-top: 95px;
+  }
+  .container10 h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .container10 p {
+    margin-bottom: 12px;
+    font-size: 13px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 89%;
+    height: 96%;
+  }
+  .form-control {
+    padding: 8px 12px;
+    font-size: 15px;
+  }
+  .form-submit {
+    width: 250px;
+    font-size: 15px;
+  }
+  .toggles {
+    right: 21%;
+    margin-top: 12px;
+  }
+  .form-label {
+    display: none;
+  }
+  .close {
+    margin-top: 90px;
+    margin-right: 3px;
+  }
+  .form-group input {
+    font-size: 15px;
+  }
+  .form-message {
+    font-size: 14px;
+    margin-left: 12px;
+    margin-top: -5px;
+  }
+
+  /* phancuoi */
+
+  .tow {
+    height: 430px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+    margin-left: -45px;
+  }
+  .logo-1 {
+    margin-left: -75px;
+  }
+  .col-12 {
+    padding: 0px 7px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 15px;
+  }
+  .col-13 {
+    font-size: 17px;
+  }
+  /* phanloader */
+  .load img {
+    margin-left: -50px;
+    margin-top: -50px;
+  }
+}
+
+/* mobile 6,7,8 */
+
+@media (min-width: 359px) and (max-width: 667px) {
+  .warray {
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    background-color: #fff;
+    margin-top: 0px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    height: 65px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+    margin-top: 5px;
+  }
+  .nav__menu {
+    flex-direction: column;
+    position: fixed;
+    top: 65px;
+    right: -100%;
+    width: 80%;
+    height: 100%;
+    padding: 6rem;
+    background-color: #0e2431f5;
+    transition: 0.5s;
+    /* overflow-x: hidden; */
+    z-index: 2;
+  }
+  .menu_link {
+    color: #fff;
+    margin-right: 0;
+  }
+  .show {
+    right: 0;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+  }
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #nav-toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 30px;
+  }
+  .closebtn {
+    text-decoration: none;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 28px;
+    font-size: 50px;
+    margin-left: 50px;
+    color: #fff;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+    display: flex;
+  }
+  .header-item {
+    display: none;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+
+  .english {
+    margin-top: 20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course {
+    margin-top: 100px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 20px;
+    margin-left: 25px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 25px;
+  }
+  .search-container input {
+    font-size: 17px;
+    width: 280px;
+    height: 42px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .product-item {
+    width: 335px;
+    height: 452px;
+  }
+  .rating span {
+    margin-left: 130px;
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -18px;
+  }
+  .row-20 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-2 {
+    margin-left: -18px;
+    margin-right: 780px;
+    margin-top: 940px;
+  }
+  .row-3 {
+    margin-left: -18px;
+    margin-top: 1440px;
+  }
+  .row-4 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-5 {
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-7 {
+    margin-left: -18px;
+    margin-top: 1410px;
+  }
+  .row-8 {
+    margin-left: -18px;
+    margin-top: 1890px;
+  }
+  .row-9 {
+    margin-left: -18px;
+    margin-top: 2390px;
+  }
+  .row-10 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-11 {
+    /* margin-left: 785px; */
+    display: none;
+  }
+  .row-12 {
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-19 {
+    margin-left: -18px;
+    margin-top: 1418px;
+  }
+  .row-22 {
+    /* margin-left: 388px; */
+    display: none;
+  }
+  .row-13 {
+    margin-left: -18px;
+    margin-top: 1925px;
+  }
+  .row-14 {
+    /* margin-left: 388px; */
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-15 {
+    /* margin-left: 785px; */
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-23 {
+    margin-left: -18px;
+    margin-top: 1410px;
+  }
+  .row-16 {
+    margin-left: -20px;
+  }
+  .row-18 {
+    /* margin-left: 388px; */
+    margin-left: -20px;
+    margin-top: 470px;
+  }
+  /* phancuoi */
+  .tow {
+    height: 425px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .logo-1 {
+    margin-left: -140px;
+  }
+  .col-5 p {
+    margin-left: 53px;
+  }
+  .icon-1 {
+    margin-left: 53px;
+  }
+  .col-12 {
+    padding: 0px 15px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 15px;
+  }
+  /* phandangki */
+  .modal {
+    padding-top: 15px;
+  }
+  .container10 {
+    margin-top: 69px;
+  }
+  .container10 h1 {
+    font-size: 20px;
+    margin-bottom: 7px;
+  }
+  .container10 p {
+    margin-bottom: 8px;
+    font-size: 15px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    padding-top: 30px;
+    width: 89%;
+    height: 99%;
+  }
+  .form-control {
+    padding: 8px 12px;
+    font-size: 15px;
+  }
+  .form-submit {
+    font-size: 16px;
+    margin-top: -10px;
+  }
+  .toggles {
+    right: 18%;
+    margin-top: 22px;
+  }
+  .form-label {
+    display: none;
+  }
+  .close {
+    margin-top: 58px;
+    margin-right: 5px;
+  }
+  .form-group input {
+    font-size: 17px;
+    margin-top: 10px;
+    border-radius: 11px;
+  }
+  .form-message {
+    font-size: 16px;
+    margin-left: 12px;
+  }
+  .signin-options {
+    margin-top: 16px;
+  }
+  /* phanloader */
+  .load img {
+    margin-left: -40px;
+    margin-top: -40px;
+  }
+}
+
+/* mobile */
+@media (min-width: 413px) and (max-height: 735px) {
+  .warray {
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    background-color: #fff;
+    margin-top: 0px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    height: 65px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+    margin-top: 5px;
+  }
+  .nav__menu {
+    flex-direction: column;
+    position: fixed;
+    top: 65px;
+    right: -100%;
+    width: 80%;
+    height: 100%;
+    padding: 6rem;
+    background-color: #0e2431f5;
+    transition: 0.5s;
+    z-index: 2;
+  }
+  .menu_link {
+    color: #fff;
+    margin-right: 0;
+  }
+  .show {
+    right: 0;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #nav-toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 28px;
+  }
+  .closebtn {
+    text-decoration: none;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 28px;
+    font-size: 50px;
+    margin-left: 50px;
+    color: #fff;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+  .english {
+    margin-top: 20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 24px;
+    margin-left: 20px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 20px;
+  }
+  .search-container input {
+    font-size: 17px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .col-4 h4 {
+    font-size: 19px;
+  }
+  .rating span {
+    margin-left: 150px;
+    font-size: 15px;
+  }
+  .col-4 h5 a {
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -9px;
+  }
+  .row-20 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-2 {
+    margin-left: -9px;
+    margin-right: 780px;
+    margin-top: 940px;
+  }
+  .row-3 {
+    margin-left: -9px;
+    margin-top: 1440px;
+  }
+  .row-4 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-5 {
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-7 {
+    margin-left: -9px;
+    margin-top: 1410px;
+  }
+  .row-8 {
+    margin-left: -9px;
+    margin-top: 1890px;
+  }
+  .row-9 {
+    margin-left: -9px;
+    margin-top: 2390px;
+  }
+  .row-10 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-11 {
+    /* margin-left: 785px; */
+    display: none;
+  }
+  .row-12 {
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-19 {
+    margin-left: -9px;
+    margin-top: 1420px;
+  }
+  .row-22 {
+    /* margin-left: 388px; */
+    display: none;
+  }
+  .row-13 {
+    margin-left: -9px;
+    margin-top: 1925px;
+  }
+  .row-14 {
+    /* margin-left: 388px; */
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-15 {
+    /* margin-left: 785px; */
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-23 {
+    margin-left: -9px;
+    margin-top: 1410px;
+  }
+  .row-16 {
+    margin-left: -9px;
+  }
+  .row-18 {
+    /* margin-left: 388px; */
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+
+  /* phandangki */
+
+  .modal {
+    padding-top: 15px;
+  }
+  .container10 {
+    margin-top: 69px;
+  }
+  .container10 h1 {
+    font-size: 20px;
+    margin-bottom: 7px;
+  }
+  .container10 p {
+    margin-bottom: 8px;
+    font-size: 15px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    padding-top: 30px;
+    width: 89%;
+    height: 99%;
+  }
+  .toggles {
+    right: 18%;
+    margin-top: 22px;
+  }
+  .form-control {
+    padding: 8px 12px;
+    font-size: 15px;
+  }
+  .form-submit {
+    font-size: 17px;
+    margin-top: -10px;
+  }
+  .form-label {
+    display: none;
+  }
+  .close {
+    margin-top: 58px;
+    margin-right: 5px;
+  }
+  .form-group input {
+    font-size: 17px;
+    margin-top: 10px;
+  }
+  .form-message {
+    font-size: 16px;
+    margin-left: 12px;
+  }
+  .signin-options {
+    margin-top: 16px;
+  }
+
+  /* phancuoi */
+  .tow {
+    height: 430px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    padding: 0px 18px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 16px;
+  }
+  .col-13 {
+    font-size: 17px;
+  }
+  /* phanloader */
+  .load img {
+    margin-left: -40px;
+    margin-top: -40px;
+  }
+}
+
+/* từ pc xuống  */
+@media (min-width: 1024px) and (max-width: 1239px) {
+  #img1 {
+    margin-left: -20px;
+  }
+  .warray {
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    background-color: #fff;
+    margin-top: 0px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    height: 65px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+    margin-top: 5px;
+  }
+  .nav__menu {
+    flex-direction: column;
+    position: fixed;
+    top: 65px;
+    right: -100%;
+    width: 40%;
+    height: 100%;
+    padding: 2rem;
+    background-color: #0e2431f5;
+    transition: 0.5s;
+    z-index: 2;
+  }
+  .menu_link {
+    color: #fff;
+    margin-right: 0;
+  }
+  .show {
+    right: 0;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+  }
+  .rot {
+    display: flex;
+  }
+  #nav-toggle {
+    display: block;
+    margin-top: -50px;
+    text-align: right;
+    margin-right: 40px;
+    font-size: 40px;
+  }
+  .closebtn {
+    text-decoration: none;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    font-size: 60px;
+    margin-left: 50px;
+    color: #fff;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  .english {
+    margin-top: 20px;
+  }
+  /* phanduoimenu */
+  .head-course {
+    margin-top: 100px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 25px;
+    margin-left: 160px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 160px;
+  }
+
+  /* phankhoahoc */
+  .letter {
+    margin-left: 160px;
+  }
+  .row {
+    margin-left: 130px;
+  }
+  .row-20 {
+    margin-left: 520px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .row-2 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-3 {
+    margin-left: 130px;
+    margin-top: 970px;
+  }
+  .row-4 {
+    margin-left: 520px;
+  }
+  .row-5 {
+    margin-top: 470px;
+    margin-left: 130px;
+  }
+  .row-7 {
+    margin-left: 520px;
+    margin-top: 470px;
+  }
+  .row-8 {
+    margin-left: 130px;
+    margin-top: 940px;
+  }
+  .row-9 {
+    margin-left: 130px;
+    margin-top: 1440px;
+  }
+  .row-10 {
+    margin-left: 520px;
+  }
+  .row-11 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-12 {
+    margin-left: 520px;
+  }
+  .row-19 {
+    margin-left: 130px;
+    margin-top: 940px;
+  }
+  .row-22 {
+    margin-left: 520px;
+  }
+  .row-13 {
+    margin-left: 130px;
+    margin-top: 1440px;
+  }
+  .row-14 {
+    margin-left: 520px;
+  }
+  .row-15 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-23 {
+    margin-left: 520px;
+  }
+  .row-16 {
+    margin-left: 130px;
+    margin-top: 480px;
+  }
+  .row-18 {
+    margin-left: 520px;
+  }
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phandangki */
+  .modal {
+    padding-top: 175px;
+  }
+  .container10 {
+    margin-top: 50px;
+  }
+  .container10 h1 {
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  .container10 p {
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 69%;
+    height: 69%;
+  }
+  .form-control {
+    padding: 8px 12px;
+    font-size: 15px;
+  }
+  .toggles {
+    right: 34%;
+    margin-top: 22px;
+  }
+  .form-label {
+    display: none;
+  }
+  .close {
+    margin-top: -35px;
+    margin-right: -100px;
+  }
+  .form-group input {
+    font-size: 19px;
+    margin-top: 10px;
+    border-radius: 11px;
+  }
+  .form-message {
+    font-size: 20px;
+    margin-left: 12px;
+  }
+
+  /* phancuoi */
+
+  .tow {
+    height: 400px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    margin-top: 12px;
+    margin-left: -36px;
+  }
+  .logo-1 {
+    margin-left: -210px;
+  }
+  .comer {
+    margin-left: -50px;
+  }
+  /* phanloader */
+  .load img {
+    margin-left: -40px;
+    margin-top: -40px;
+  }
+}
+
+/* ipap */
+@media (min-width: 753px) and (max-width: 1023px) {
+  .warray {
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    background-color: #fff;
+    margin-top: 0px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    height: 65px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+    margin-top: 5px;
+  }
+  .nav__menu {
+    flex-direction: column;
+    position: fixed;
+    top: 65px;
+    right: -100%;
+    width: 40%;
+    height: 100%;
+    padding: 2rem;
+    background-color: #0e2431f5;
+    transition: 0.5s;
+    z-index: 2;
+  }
+  .menu_link {
+    color: #fff;
+    margin-right: 0;
+  }
+  .show {
+    right: 0;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+  }
+  .rot {
+    display: flex;
+  }
+  #nav-toggle {
+    display: block;
+    margin-top: -50px;
+    text-align: right;
+    margin-right: 42px;
+    font-size: 40px;
+  }
+  .closebtn {
+    text-decoration: none;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    font-size: 60px;
+    margin-left: 50px;
+    color: #fff;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .english {
+    margin-top: 21px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* phanduoimenu */
+  .head-course {
+    margin-top: 100px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 25px;
+    margin-left: 60px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 60px;
+  }
+
+  /* phankhoahoc */
+  .letter {
+    margin-left: 60px;
+  }
+  .row {
+    margin-left: -10px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .row-20 {
+    margin-left: 360px;
+  }
+  .row-2 {
+    margin-left: -10px;
+    margin-top: 470px;
+  }
+  .row-3 {
+    margin-left: -10px;
+    margin-top: 970px;
+  }
+  .row-4 {
+    margin-left: 360px;
+  }
+  .row-5 {
+    margin-top: 470px;
+    margin-left: -10px;
+  }
+  .row-7 {
+    margin-left: 360px;
+    margin-top: 470px;
+  }
+  .row-8 {
+    margin-left: -10px;
+    margin-top: 940px;
+  }
+  .row-9 {
+    margin-left: -10px;
+    margin-top: 1440px;
+  }
+  .row-10 {
+    margin-left: 360px;
+  }
+  .row-11 {
+    margin-left: -10px;
+    margin-top: 470px;
+  }
+  .row-12 {
+    margin-left: 360px;
+  }
+  .row-19 {
+    margin-left: -10px;
+    margin-top: 940px;
+  }
+  .row-22 {
+    margin-left: 360px;
+  }
+  .row-13 {
+    margin-left: -10px;
+    margin-top: 1440px;
+  }
+  .row-14 {
+    margin-left: 360px;
+  }
+  .row-15 {
+    margin-left: -10px;
+    margin-top: 470px;
+  }
+  .row-23 {
+    margin-left: 360px;
+  }
+  .row-16 {
+    margin-left: -10px;
+    margin-top: 480px;
+  }
+  .row-18 {
+    margin-left: 360px;
+  }
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phandangki */
+  .modal {
+    padding-top: 75px;
+  }
+  .container10 {
+    margin-top: 50px;
+  }
+  .container10 h1 {
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  .container10 p {
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 89%;
+    height: 94%;
+  }
+  .form-control {
+    padding: 8px 12px;
+    font-size: 15px;
+  }
+  .toggles {
+    right: 30%;
+    margin-top: 22px;
+  }
+  .form-label {
+    display: none;
+  }
+  .close {
+    margin-top: -40px;
+    margin-right: -100px;
+  }
+  .form-group input {
+    font-size: 19px;
+    margin-top: 10px;
+    border-radius: 11px;
+  }
+  .form-message {
+    font-size: 20px;
+    margin-left: 12px;
+  }
+  /* phancuoi */
+
+  .tow {
+    height: 450px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    margin-top: 12px;
+    margin-left: 36px;
+    padding: 0px;
+  }
+  .logo-1 {
+    margin-left: -210px;
+  }
+  .comer {
+    margin-left: -30px;
+  }
+  /* phanloader */
+  .load img {
+    margin-left: -40px;
+    margin-top: -40px;
+  }
+}
